@@ -1,0 +1,126 @@
+	body {
+
+	background-image: url("../images/dogpattern.jpg");
+	text-align: center;
+	
+}
+
+.container {
+
+	margin-bottom:75px;
+}
+
+
+
+.row {
+	position: relative;
+	height: 450px;
+}
+
+.column-third {
+	width: 33.3333333%;
+	height: 100%;
+	float: left;
+}
+
+
+h1, h2 {
+
+	font-family: "Verdana", "Geneva", "sans-serif";
+	color: #ffe0a7;
+	display: inline;
+	background-color: #b5ccdd;
+	
+}
+
+h1 {
+
+	color: tomato !important;
+	border-style: double;
+    border-width: thick;
+    border-color: tomato;
+    border-radius: 10px;
+}
+
+p {
+
+
+	font-family: "Verdana", "Geneva", "sans-serif";
+	font-weight: 100;
+	font-size: 20px;
+	color: tomato;
+	
+
+}
+
+label {
+
+
+	font-family: "Verdana", "Geneva", "sans-serif";
+	font-weight: 100;
+	font-size: 15px;
+	
+	
+
+}
+
+.blue {
+	background-color: #b5ccdd;
+
+}
+
+.transparent {
+	opacity: 0.7;
+}
+
+#allQuestions {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 37px;
+}
+
+.header {
+	margin: 35px;
+}
+
+.button {
+    background-color: tomato;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 15px;
+    color: #b5ccdd; 
+    
+}
+
+#after_finish {
+
+  visibility: hidden;
+
+}
+
+#after_start {
+
+  visibility: hidden;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
